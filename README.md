@@ -11,7 +11,7 @@ Computer Science student at [Universita di Trento](https://www.unitn.it)
 
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white) 
 
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Manjaro](https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 # GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ilBuso&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
