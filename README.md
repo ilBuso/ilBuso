@@ -5,21 +5,7 @@
 </h1>
 
 <h5 align="center">
-  <code>
-    <a href="https://linkedin.com/in/alessandro-busola" title="LinkedIn Profile"><img width="22" src="assets/images/linkedin.svg">
-       LinkedIn
-    </a>
-  </code>  
-  <code>
-    <a href="assets/cv.pdf" title="Curriculum Vitae"><img width="22" src="assets/images/pdf-logo.svg">       
-       Curriculum Vitae
-    </a>
-  </code>  
-  <code>
-    <a href="mailto:alessandro.busola@gmail.com" title="E-Mail"><img width="22" src="assets/images/gmail.svg">
-       Email
-    </a>
-  </code>
+  <code><a href="https://linkedin.com/in/alessandro-busola" title="LinkedIn Profile"><img width="22" src="assets/images/linkedin.svg"> LinkedIn</a></code><code><a href="assets/cv.pdf" title="Curriculum Vitae"><img width="22" src="assets/images/pdf-logo.svg"> Curriculum Vitae</a></code><code><a href="mailto:alessandro.busola@gmail.com" title="E-Mail"><img width="22" src="assets/images/gmail.svg"> Email</a></code>
 </h5>
 
 <br>
