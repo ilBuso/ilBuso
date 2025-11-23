@@ -10,7 +10,7 @@
 
 <br>
 <p align="center">
-  Hi, I'm Alessandro Busola, Software Developer and Computer Science Student from Italy
+  Hi, I'm Alessandro Busola, Computer Science Student from Italy
   <br>
   <br>
   I'm currently pursuing a Bachelor's degree in Computer Science at the University of Trento
